@@ -1,0 +1,18 @@
+.cat {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  bottom: 50px;
+  transition-property: bottom;
+  transition-duration: 2s;
+}
+
+canvas {
+  width: 1000px;
+  height: 590px;
+  border: 5px solid fuchsia;
+  /* position: absolute;
+  top: 5px;
+  bottom: 5px;
+  right: 100px; */
+}
